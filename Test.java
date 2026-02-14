@@ -12,5 +12,3 @@ public class Test {
         add();
     }
 }
-
-khkjk
